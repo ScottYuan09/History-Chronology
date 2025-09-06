@@ -1,5 +1,5 @@
 <h1>中外历史年代对照表</h1>
-<p>作者：<a href="https://github.com/easysky/">Easysky</a>、<a href="https://github.com/YuanScott/">YuanScott</a></p>
+<p>作者：<a href="https://github.com/easysky/">Easysky</a>、<a href="https://github.com/ScottYuan0O/">ScottYuan09</a></p>
 <br></br>
 <table>
   <tr>
